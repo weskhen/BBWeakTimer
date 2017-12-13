@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/weskhen/WeakTimer"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "wesk 痕" => "wujian516411567@163.com" }
-  s.source       = { :git => "https://github.com/weskhen/WeakTimer.git", :tag => "1.0" }
+  s.source       = { :git => "https://github.com/weskhen/WeakTimer.git", :tag => "1.0.1" }
   s.platform     = :ios, '6.0'
   s.source_files = 'BBWeakTimer/Classes/*.{h,m}'  
   s.requires_arc = true
